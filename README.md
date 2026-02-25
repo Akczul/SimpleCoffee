@@ -49,6 +49,4 @@ src/
 └── [archivos CSS]
 ```
 
----
-
-Hecho por: un estudiante de Frontend 🎓
+ 
