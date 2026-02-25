@@ -1,3 +1,6 @@
+# INTEGRANTES
+-Juan Diego Delgado España
+
 # ☕ Listado Simple de Café
 
 Un sitio web simple para ver y filtrar diferentes tipos de café.
